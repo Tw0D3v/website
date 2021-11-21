@@ -2,7 +2,7 @@
   "name": "pagina-web-1.0",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dark107.github.io/website/",
+  "homepage": "https://github.com/dark107/website",
   "dependencies": {
     "@brainhubeu/react-carousel": "^2.0.4",
     "@testing-library/jest-dom": "^5.15.0",
